@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 7611547e59cf23244931a295ba665814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6815077523877570168
+    second: PC Computer - Warcraft Orcs & Humans - Spider_0
+  - first:
+      213: -8372266649303273022
+    second: PC Computer - Warcraft Orcs & Humans - Spider_1
+  - first:
+      213: 3465147180644052118
+    second: PC Computer - Warcraft Orcs & Humans - Spider_2
+  - first:
+      213: 5273431843978503932
+    second: PC Computer - Warcraft Orcs & Humans - Spider_3
+  - first:
+      213: 7994769957919979039
+    second: PC Computer - Warcraft Orcs & Humans - Spider_4
+  - first:
+      213: -5790983010507984767
+    second: PC Computer - Warcraft Orcs & Humans - Spider_5
+  - first:
+      213: -3465209589172798641
+    second: PC Computer - Warcraft Orcs & Humans - Spider_6
+  - first:
+      213: 1198344198058665820
+    second: PC Computer - Warcraft Orcs & Humans - Spider_7
+  - first:
+      213: -2038014407399152634
+    second: PC Computer - Warcraft Orcs & Humans - Spider_8
+  - first:
+      213: -5465061006745018179
+    second: PC Computer - Warcraft Orcs & Humans - Spider_9
+  - first:
+      213: 1858718577073854945
+    second: PC Computer - Warcraft Orcs & Humans - Spider_10
+  - first:
+      213: 9106865480694140583
+    second: PC Computer - Warcraft Orcs & Humans - Spider_11
+  - first:
+      213: 7161398533282458832
+    second: PC Computer - Warcraft Orcs & Humans - Spider_12
+  - first:
+      213: 3481855922788482694
+    second: PC Computer - Warcraft Orcs & Humans - Spider_13
+  - first:
+      213: -6470556178751735130
+    second: PC Computer - Warcraft Orcs & Humans - Spider_14
+  - first:
+      213: -7946272319371311313
+    second: PC Computer - Warcraft Orcs & Humans - Spider_15
+  - first:
+      213: -1948225114021694943
+    second: PC Computer - Warcraft Orcs & Humans - Spider_16
+  - first:
+      213: 105277123022209339
+    second: PC Computer - Warcraft Orcs & Humans - Spider_17
+  - first:
+      213: -5131864696654010982
+    second: PC Computer - Warcraft Orcs & Humans - Spider_18
+  - first:
+      213: -2026902226960938202
+    second: PC Computer - Warcraft Orcs & Humans - Spider_19
+  - first:
+      213: 6442249431798987344
+    second: PC Computer - Warcraft Orcs & Humans - Spider_20
+  - first:
+      213: 2758558686910619906
+    second: PC Computer - Warcraft Orcs & Humans - Spider_21
+  - first:
+      213: -5911430709530416970
+    second: PC Computer - Warcraft Orcs & Humans - Spider_22
+  - first:
+      213: -1790168178344769899
+    second: PC Computer - Warcraft Orcs & Humans - Spider_23
+  - first:
+      213: 625557110253639235
+    second: PC Computer - Warcraft Orcs & Humans - Spider_24
+  - first:
+      213: 4078241904836829730
+    second: PC Computer - Warcraft Orcs & Humans - Spider_25
+  - first:
+      213: -784770950533663254
+    second: PC Computer - Warcraft Orcs & Humans - Spider_26
+  - first:
+      213: -5754834347983499313
+    second: PC Computer - Warcraft Orcs & Humans - Spider_27
+  - first:
+      213: 4853136598768241467
+    second: PC Computer - Warcraft Orcs & Humans - Spider_28
+  - first:
+      213: 9066822464918389028
+    second: PC Computer - Warcraft Orcs & Humans - Spider_29
+  - first:
+      213: -3100073962013413434
+    second: PC Computer - Warcraft Orcs & Humans - Spider_30
+  - first:
+      213: 3092087826567019572
+    second: PC Computer - Warcraft Orcs & Humans - Spider_31
+  - first:
+      213: 6168142118031121795
+    second: PC Computer - Warcraft Orcs & Humans - Spider_32
+  - first:
+      213: 997533270768969236
+    second: PC Computer - Warcraft Orcs & Humans - Spider_33
+  - first:
+      213: -5093884179474382743
+    second: PC Computer - Warcraft Orcs & Humans - Spider_34
+  - first:
+      213: -4023692241057801550
+    second: PC Computer - Warcraft Orcs & Humans - Spider_35
+  - first:
+      213: 4765539246961345024
+    second: PC Computer - Warcraft Orcs & Humans - Spider_36
+  - first:
+      213: 8849099843529279835
+    second: PC Computer - Warcraft Orcs & Humans - Spider_37
+  - first:
+      213: 1000406395858443763
+    second: PC Computer - Warcraft Orcs & Humans - Spider_38
+  - first:
+      213: -8004251523212397251
+    second: PC Computer - Warcraft Orcs & Humans - Spider_39
+  - first:
+      213: 6442005793083520213
+    second: PC Computer - Warcraft Orcs & Humans - Spider_40
+  - first:
+      213: 3335129186014282924
+    second: PC Computer - Warcraft Orcs & Humans - Spider_41
+  - first:
+      213: 5577765976080404457
+    second: PC Computer - Warcraft Orcs & Humans - Spider_42
+  - first:
+      213: 1222895091046631236
+    second: PC Computer - Warcraft Orcs & Humans - Spider_43
+  - first:
+      213: -2778683362035948194
+    second: PC Computer - Warcraft Orcs & Humans - Spider_44
+  - first:
+      213: -102202650743372168
+    second: PC Computer - Warcraft Orcs & Humans - Spider_45
+  - first:
+      213: -221424155158665293
+    second: PC Computer - Warcraft Orcs & Humans - Spider_46
+  - first:
+      213: 9164574914492449110
+    second: PC Computer - Warcraft Orcs & Humans - Spider_47
+  - first:
+      213: -4111012647182065418
+    second: PC Computer - Warcraft Orcs & Humans - Spider_48
+  - first:
+      213: -1957152064900315040
+    second: PC Computer - Warcraft Orcs & Humans - Spider_49
+  - first:
+      213: -743137590982472593
+    second: PC Computer - Warcraft Orcs & Humans - Spider_50
+  - first:
+      213: -9002519963150462601
+    second: PC Computer - Warcraft Orcs & Humans - Spider_51
+  - first:
+      213: 3290288845376315283
+    second: PC Computer - Warcraft Orcs & Humans - Spider_52
+  - first:
+      213: 5255304288412784090
+    second: PC Computer - Warcraft Orcs & Humans - Spider_53
+  - first:
+      213: -4150527626059552433
+    second: PC Computer - Warcraft Orcs & Humans - Spider_54
+  - first:
+      213: 7578140366962532400
+    second: PC Computer - Warcraft Orcs & Humans - Spider_55
+  - first:
+      213: 3049908500519135106
+    second: PC Computer - Warcraft Orcs & Humans - Spider_56
+  - first:
+      213: -4980445119390009785
+    second: PC Computer - Warcraft Orcs & Humans - Spider_57
+  - first:
+      213: 6906772612827111635
+    second: PC Computer - Warcraft Orcs & Humans - Spider_58
+  - first:
+      213: 9040343920218132891
+    second: PC Computer - Warcraft Orcs & Humans - Spider_59
+  - first:
+      213: 5195378143305948504
+    second: PC Computer - Warcraft Orcs & Humans - Spider_60
+  - first:
+      213: 3706266278171108109
+    second: PC Computer - Warcraft Orcs & Humans - Spider_61
+  - first:
+      213: -2897940382341811105
+    second: PC Computer - Warcraft Orcs & Humans - Spider_62
+  - first:
+      213: 9174174506223665563
+    second: PC Computer - Warcraft Orcs & Humans - Spider_63
+  - first:
+      213: -4897159930643545024
+    second: PC Computer - Warcraft Orcs & Humans - Spider_64
+  - first:
+      213: -6255331664759065124
+    second: PC Computer - Warcraft Orcs & Humans - Spider_65
+  - first:
+      213: 5092315388594897810
+    second: PC Computer - Warcraft Orcs & Humans - Spider_66
+  - first:
+      213: 2544162136117690553
+    second: PC Computer - Warcraft Orcs & Humans - Spider_67
+  - first:
+      213: 495216317253899234
+    second: PC Computer - Warcraft Orcs & Humans - Spider_68
+  - first:
+      213: 2933969147907793774
+    second: PC Computer - Warcraft Orcs & Humans - Spider_69
+  - first:
+      213: 3761783611906820661
+    second: PC Computer - Warcraft Orcs & Humans - Spider_70
+  - first:
+      213: 3845214870033498175
+    second: PC Computer - Warcraft Orcs & Humans - Spider_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895780991bfb61a0800000000000000
+      internalID: -6815077523877570168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f278a5b3d6b29b190800000000000000
+      internalID: -7946272319371311313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 69
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa0cc08235af4d0800000000000000
+      internalID: -3100073962013413434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876865b0b37e49ef0800000000000000
+      internalID: -102202650743372168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_59
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 44
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d6fbc5e0c57d70800000000000000
+      internalID: 9040343920218132891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e5691b8d4f6330800000000000000
+      internalID: 3706266278171108109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e355e4ed9c5fd600800000000000000
+      internalID: 495216317253899234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 13
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63effa256d87b820800000000000000
+      internalID: 2933969147907793774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Spider_71
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30856d2d82fc5530800000000000000
+      internalID: 3845214870033498175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
